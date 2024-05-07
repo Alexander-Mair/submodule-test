@@ -1,0 +1,6 @@
+[submodule "microblog"]
+	path = microblog
+	url = https://github.com/Alexander-Mair/microblog.git
+[submodule "aws-elastic-beanstalk-express-js-sample"]
+	path = aws-elastic-beanstalk-express-js-sample
+	url = https://github.com/Alexander-Mair/aws-elastic-beanstalk-express-js-sample.git
